@@ -1,0 +1,7 @@
+your-repository
+│   README.md
+│   index.html
+│   ...
+└───.github
+    └───workflows
+        └───deploy.yml
